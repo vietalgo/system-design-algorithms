@@ -22,6 +22,12 @@
 - Reverse index
 - Rsync algorithm
 - Trie algorithm
+- Consistent Hashing
+- Count-Min Sketch
+- HyperLogLog
+- Skip Lists
+- B-Tree
+- LRU & LFU design
 
 ### Bloom filter
 A Bloom filter is a data structure designed to tell you, rapidly and memory-efficiently, whether an element is present in a set.
